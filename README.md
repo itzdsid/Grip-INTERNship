@@ -2,7 +2,7 @@
 
 ## Data Science & Business Analytics.
 ## This Internship consists of 8 tasks.
- ### 1. Prediction Using Supervised ML
+ ### 1. Prediction Using Supervised ML(Simple Linear Regression)
  ### 2. Prediction using Unsupervised ML
  ### 3. Exploratory Data Analysis - Retail
  ### 4. Exploratory Data Analysis - Terrorism
